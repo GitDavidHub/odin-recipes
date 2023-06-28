@@ -1,1 +1,1 @@
-# odin-recipes
+Hi! Welcome to the start of my coding journey. Today I will be creating a basic recipe website using HTML.
